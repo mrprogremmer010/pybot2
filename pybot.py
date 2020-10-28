@@ -431,4 +431,4 @@ async def num(ctx):
 
 
 
-client.run('NzU1NjU2MTkxOTEyMzEyOTIz.X2Gdqw.Td-xRpEbI8EQ2VkoqELkvB9BDk8')
+client.run('token')
